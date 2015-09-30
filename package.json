@@ -1,0 +1,20 @@
+{
+	"name": "NodejsStarterApp",
+	"version": "0.0.1",
+	"description": "A sample nodejs app for Bluemix",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"dependencies": {
+		"formidable": "1.0.x",
+		"express": "4.12.x",
+		"cfenv": "1.0.x"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/MuFang/NodejsDemo"
+	},
+	"engines": {
+		"node": "0.12.x"
+	} 
+}
